@@ -1,0 +1,52 @@
+.h {
+  color: #f44295;
+}
+
+body {
+  background-color: #444c4b;
+}
+
+.p1 {
+  color: #DF0055;
+  font-size: 15px;
+  position: absolute;
+  left: 25px;
+  top: 575px;
+  padding: 10px;
+
+}
+
+.p3, .p4, .p5 {
+  color: green;
+  font-size: 20px;
+}
+
+ul, li {
+  color: blue
+}
+
+.p2 {
+  font-family: "arial", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  left: 5px;
+}
+
+.img1 {
+  position:fixed;
+  right: 45px;
+  bottom: 55px;
+}
+
+.div3 {
+  background-color: wheat;
+  padding: 25px;
+  border: 5px solid gray;
+  width: 225px;
+  height: 225px;
+  margin: 25px;
+  position: absolute;
+  bottom: 50px;
+  left: 530px;
+  up:150px;
+}
